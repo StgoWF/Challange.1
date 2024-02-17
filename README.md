@@ -11,7 +11,7 @@ This project involves a refactor of the Horiseon website to improve accessibilit
 ![Horiseon Website Screenshot](assets/images/screenshot.png)
 
 ## Deployment
-View the live website [here](https://stgowf.github.io/Challange.1/).
+View the live website [here](https://stgowf.github.io/Horiseon-Accessibility-Refactor/).
 
 ## Getting Started
 To view the website locally, clone this repository and open `index.html` in your web browser.
