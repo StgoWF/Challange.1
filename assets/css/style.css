@@ -100,20 +100,11 @@ main {
 }
 
 /* Individual benefit styles */
-.benefit-lead {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
 .benefit-lead h3 {
     margin-bottom: 10px;
